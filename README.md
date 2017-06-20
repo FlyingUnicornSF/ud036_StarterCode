@@ -1,4 +1,5 @@
 # Movie Trailer Website Project
+## LOL I AM MAKING CHANGES!!!!
 Movie Trailer Website is a site that lists my favorit movies.
 ## How does it look like? 
 It displays my favorit movies with clickable movie posters images.
