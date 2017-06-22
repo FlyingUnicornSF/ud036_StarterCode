@@ -13,7 +13,10 @@ class Movie():
 ## Why Movie Trailers?
 Udacity Full Stack Web Developer Nano degree project. This is my baby step to become a full stack web developer.
 ## How to install
-Open up fresh_tomatoes.html on your browser.
+1. Download the project onto your computer.
+2. Go to the correct directly with your terminal.
+3. Run entertainment_center.py
+4. Browser  will open and off you go!
 ### License?
 I have to read up on licenses but for now, it's for all!
 
