@@ -4,7 +4,8 @@ import media
 # input to the movie object? making instances for Movie Class?
 
 # adding the last airbender
-airbender = media.Movie("The last airbender",
+airbender = media.Movie(
+    "The last airbender",
     """the twelve-year old (chronologically 112) incarnation 
     of the current Avatar and the eponymous""",
     "http://static.tvtropes.org/pmwiki/pub/images/ATLA_3829.jpg",
@@ -14,7 +15,8 @@ airbender = media.Movie("The last airbender",
 the text editor's screen. Looked longer than 80 characters. 
 Decided to shorten it. When put it into 
 multiple lines, it has to be changed to triple double quotes."""
-pitch_perfect = media.Movie("Picth Perfect",
+pitch_perfect = media.Movie(
+    "Picth Perfect",
     """Beca, a freshman at Barden University, is cajoled into 
     joining The Bellas, her school's all-girls singing group. 
     Injecting some much needed energy into their repertoire, 
@@ -22,7 +24,8 @@ pitch_perfect = media.Movie("Picth Perfect",
     "http://static.tvtropes.org/pmwiki/pub/images/pitch_perfect_poster.jpg",
     "https://www.youtube.com/watch?v=F03N-ApQdmw")
 # adding grudge.
-grudge = media.Movie("The Grudge",
+grudge = media.Movie(
+    "The Grudge",
     """An American nurse living and working in Tokyo is exposed 
     to a mysterious supernatural curse one that locks a person in a 
     powerful rage before claiming their life and spreading to another victim.""",
